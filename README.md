@@ -1,2 +1,2 @@
-# gitset
-Git test DCU
+전지훈
+대구가톨릭대학교
